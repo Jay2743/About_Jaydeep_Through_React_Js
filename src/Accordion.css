@@ -1,0 +1,44 @@
+body{
+    background:rgb(255, 255, 255);
+}
+
+.main-heading{
+    background-color: rgb(255, 255, 255);
+    margin: auto;
+    display: flex;
+    width: 30%;
+    padding: 0;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
+.main-heading p{
+    padding: 10px;
+}
+.main-heading p:hover{
+    cursor: pointer;
+}
+h1{
+    text-align: center;
+    margin-top: 100px;
+    font-size:40px;
+}
+h3{
+    margin-left:5px;
+    padding: 10px;
+    width: max-content;
+    text-shadow: 1cap;
+    margin-bottom: 7%;
+}
+.answer{  
+    padding: 5%;
+    margin: auto;
+    font-size: 25px;
+    text-align: justify;
+    text-decoration: dotted;
+    text-indent: 18%;
+    width: 30%;
+    background-color: rgb(227, 204, 204);
+    color: rgb(1, 0, 0);
+    box-shadow: inset;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+
+}
